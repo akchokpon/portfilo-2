@@ -209,7 +209,9 @@ section {
   margin: 0 auto 30px;
 }
 .browse_card__1 .browse_ic {
-  background-image: url(/img/icon/icons/tea.svg);
+  background-image: url(../img/icon/icons/tea.svg);
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .browse_card__2 .browse_ic {
   background-image: url();
@@ -346,7 +348,7 @@ section {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #ad343e url(../img/icons/clock.svg) center no-repeat;
+  background: #ad343e url(/img/icon/icons/tea.svg) center no-repeat;
 }
 /* .fast_icon:nth-child(2) i{
   background-image: url();
