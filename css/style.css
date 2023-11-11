@@ -490,3 +490,36 @@ footer{
 .footer_img:hover::before{
   opacity: 0.5;
 }
+/* feel */
+.feel_top{
+  background: url(../img/feel_bg.jpg) center no-repeat;
+  background-size: cover;
+  display: block;
+  padding: 215px 0;
+}
+.feel_top .sec_sub-tit{
+  max-width: 596px;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+}
+.feel_play{
+  width: 106px;
+  height: 106px;
+  display: block;
+  border-radius: 50%;
+  background: #fff;
+  margin: 0 auto 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.feel_play::before{
+  content: '';
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  margin-left: 5px;
+  border-width: 12.5px 0 12.5px 20px;
+  border-color: transparent transparent transparent #AD343E;
+}
