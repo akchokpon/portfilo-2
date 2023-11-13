@@ -492,7 +492,7 @@ footer{
 }
 /* feel */
 .feel_top{
-  background: url(../img/feel_bg.jpg) center no-repeat;
+  background: url(/img/big/BG.jpg) center no-repeat;
   background-size: cover;
   display: block;
   padding: 215px 0;
