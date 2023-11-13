@@ -683,9 +683,13 @@ footer {
   width: 306px;
   height: 417.469px;
   flex-shrink: 0;
+  margin-bottom: 32px;
 }
 .menu_img img {
   border-radius: 12px 12px 0px 0px;
   background: url(<path-to-image>), lightgray 50% / cover no-repeat;
   
+}
+.menu_cards{
+  margin: 0 auto;
 }
