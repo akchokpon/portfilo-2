@@ -429,12 +429,14 @@ section {
   background: #ad343e url(/img/icon/icons/tea.svg) center no-repeat;
 }
 
-/* .fast_icon:nth-child(2) i{
+.fast_icon:nth-child(2) i {
   background-image: url();
 }
-.fast_icon:last-child i{
+
+.fast_icon:last-child i {
   background-image: url();
-} */
+}
+
 .fast_icon span {
   padding-left: 20px;
   color: #2c2f24;
@@ -684,6 +686,7 @@ footer {
   width: 306px;
   height: 417.469px;
   flex-shrink: 0;
+  margin-bottom: 30px;
 }
 
 .menu_img img {
@@ -781,12 +784,12 @@ footer {
   width: 800px;
   height: 500px;
   border-radius: 16px;
-border: 1px solid var(--neutral-01, #FFF);
-background: var(--neutral-01, #FFF);
-mix-blend-mode: hard-light;
+  border: 1px solid var(--neutral-01, #FFF);
+  background: var(--neutral-01, #FFF);
+  mix-blend-mode: hard-light;
 
-/* 1 */
-box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
+  /* 1 */
+  box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
   margin-bottom: -425px;
 }
 
@@ -795,4 +798,67 @@ box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
+}
+
+.p_1 {
+  color: var(--neutral-06, #414536);
+
+  /* Body/18px/Regular */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 155.556% */
+}
+
+.pages_txt ul li {
+  color: var(--neutral-06, #414536);
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.pages_ques {
+  color: var(--neutral-07, #2C2F24);
+  padding: 30px 0 0 0;
+
+  /* Headline/H3 */
+  font-family: DM Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  /* 125% */
+  letter-spacing: -0.72px;
+}
+
+.pages_tx {
+  color: var(--neutral-06, #414536);
+
+  /* Body/18px/Regular */
+  font-family: DM Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 155.556% */
+  padding: 20px 0 0 0;
+
+}
+
+.two_tit {
+  color: var(--neutral-07, #2C2F24);
+  text-align: center;
+
+  /* Headline/H2 */
+  font-family: Playfair Display;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 60.5px;
+  /* 110% */
+  width: 1030px;
 }
