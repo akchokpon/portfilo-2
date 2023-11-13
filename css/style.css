@@ -846,14 +846,14 @@ footer {
   line-height: 28px;
   /* 155.556% */
   padding: 20px 0 0 0;
+  width: 1086px;
 
 }
 
 .two_tit {
   color: var(--neutral-07, #2C2F24);
   text-align: center;
-
-  /* Headline/H2 */
+/* Headline/H2 */
   font-family: Playfair Display;
   font-size: 55px;
   font-style: normal;
@@ -861,4 +861,6 @@ footer {
   line-height: 60.5px;
   /* 110% */
   width: 1030px;
+  margin: 0 auto;
+  margin-bottom: 50px;
 }
