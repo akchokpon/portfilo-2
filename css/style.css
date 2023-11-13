@@ -780,7 +780,13 @@ footer {
 .block {
   width: 800px;
   height: 500px;
-  background: red;
+  border-radius: 16px;
+border: 1px solid var(--neutral-01, #FFF);
+background: var(--neutral-01, #FFF);
+mix-blend-mode: hard-light;
+
+/* 1 */
+box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
   margin-bottom: -425px;
 }
 
