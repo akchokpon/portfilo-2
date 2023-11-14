@@ -563,7 +563,9 @@ footer {
   color: #fff;
 }
 
-.footer_logo {}
+.footer_logo {
+  
+}
 
 .footer_img {
   width: calc((100% - 15px) / 2);
