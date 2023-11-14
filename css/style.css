@@ -861,6 +861,23 @@ footer {
   margin: 0 auto;
 
 }
+.you{
+  background: var(--neutral-02, #F9F9F7);
+}
+.you_right{
+  width: 346px;
+}
+.sec_tit_you{
+  color: var(--neutral-07, #2C2F24);
+
+/* Headline/H2 */
+font-family: Playfair Display;
+font-size: 55px;
+font-style: normal;
+font-weight: 500;
+line-height: 60.5px; /* 110% */
+width: 346px;
+}
 
 /*pages*/
 .pages {
