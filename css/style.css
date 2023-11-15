@@ -893,12 +893,20 @@ footer {
 
   /* 1 */
   box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
-  width: 260px;
+  width: 220px;
   height: 90px;
   flex-shrink: 0;
 }
-.you_ic{
-  background-image: url(/img/icon/icons/1.svg);
+.you_ic_big{
+  border-radius: 12px;
+  border: 1px solid var(--neutral-02, #F9F9F7);
+  background: var(--neutral-01, #FFF);
+
+  /* 1 */
+  box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
+  width: 260px;
+  height: 90px;
+  flex-shrink: 0;
 }
 
 .you_one {
