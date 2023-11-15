@@ -897,6 +897,9 @@ footer {
   height: 90px;
   flex-shrink: 0;
 }
+.you_ic{
+  background-image: url(/img/icon/icons/1.svg);
+}
 
 .you_one {
   display: flex;
@@ -1083,4 +1086,17 @@ footer {
 }
 .form_input__big{
   width: 100%;
+}
+.map_top{
+  padding-bottom: 0;
+  margin-bottom: -240px;
+  z-index: 10;
+  position: relative;
+
+}
+.map{
+  padding-top: 0;
+}
+.you_left{
+  width: calc(100% - 346px);
 }
