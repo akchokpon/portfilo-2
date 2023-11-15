@@ -1006,27 +1006,6 @@ footer {
   align-items: center;
 }
 
-.h4_input_top {
-  color: var(--neutral-07, #2C2F24);
-
-  /* Body/16px/Bold */
-  font-family: DM Sans;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 24px;
-  /* 150% */
-}
-
-.input_top {
-  display: flex;
-  flex-direction: row;
-  gap: 8px;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 .p_1 {
   color: var(--neutral-06, #414536);
 
