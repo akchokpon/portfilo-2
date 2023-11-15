@@ -1081,3 +1081,6 @@ footer {
 .form_input{
   width: calc(50% - 12px);
 }
+.form_input__big{
+  width: 100%;
+}
