@@ -262,15 +262,15 @@ section {
 }
 
 .browse_card__2 .browse_ic {
-  background-image: url();
+  background-image: url(../img/icon/icons/ell.svg);
 }
 
 .browse_card__3 .browse_ic {
-  background-image: url();
+  background-image: url(../img/icon/icons/ell2.svg);
 }
 
 .browse_card__4 .browse_ic {
-  background-image: url();
+  background-image: url(../img/icon/icons/ell3.svg);
 }
 
 .browse_tit {
@@ -427,7 +427,7 @@ section {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: #ad343e url(/img/icon/icons/tea.svg) center no-repeat;
+  background: #ad343e url(../img/icon/) center no-repeat;
 }
 
 .fast_icon:nth-child(2) i {
