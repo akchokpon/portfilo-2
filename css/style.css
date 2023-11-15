@@ -982,6 +982,7 @@ footer {
   /* 96% */
 }
 
+/*
 .map_top {
   z-index: 10;
   position: relative;
@@ -993,11 +994,10 @@ footer {
   border-radius: 16px;
   border: 1px solid var(--neutral-01, #FFF);
   background: var(--neutral-01, #FFF);
-
-  /* 1 */
   box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
   margin-bottom: -425px;
 }
+*/
 
 .contact {
   display: flex;
@@ -1005,6 +1005,32 @@ footer {
   flex-wrap: wrap;
   align-items: center;
 }
+
+.form_in {
+  border-radius: 16px;
+  border: 1px solid var(--neutral-01, #FFF);
+  background: var(--neutral-01, #FFF);
+  mix-blend-mode: hard-light;
+
+  /* 1 */
+  box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
+  max-width: 812px;
+  margin: 0 auto;
+  padding: 45px 50px 50px;
+}
+.form_txt{
+  color: var(--neutral-07, #2C2F24);
+
+/* Body/16px/Bold */
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 150% */
+margin-bottom: 8px;
+display: block;
+}
+.
 
 .p_1 {
   color: var(--neutral-06, #414536);
@@ -1070,7 +1096,7 @@ footer {
   /* 110% */
 
 }
-
+/*
 form {
   border-radius: 72px;
   border: 1px solid var(--neutral-03, #DBDFD0);
