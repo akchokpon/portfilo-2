@@ -1105,7 +1105,7 @@ footer {
   width: calc(100% - 346px);
 }
 .grey{
-  background: #F9F9F7;#
+  background: #F9F9F7;
 }
 .info{
   background: var(--neutral-01, #FFF);
