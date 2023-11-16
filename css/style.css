@@ -917,12 +917,17 @@ footer {
   border-radius: 12px;
   border: 1px solid var(--neutral-02, #F9F9F7);
   background: var(--neutral-01, #FFF);
-
-  /* 1 */
   box-shadow: 0px 2.97872px 59.57446px 0px rgba(0, 0, 0, 0.08);
   width: 220px;
   height: 90px;
   flex-shrink: 0;
+}
+.youic{
+  width: 151.983px;
+height: 24.545px;
+flex-shrink: 0;
+margin: 0 auto;
+
 }
 
 .you_ic_big {
@@ -1266,19 +1271,19 @@ footer {
 }
 
 .feel__1 .f_ic {
-	background-image: url(/img/icons/feel2.png);
+	background-image: url(/img/icon/icons/menu.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 .feel__2 .f_ic {
-	background-image: url(/img/icons/feel3.png);
+	background-image: url(/img/icon/icons/calendar.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 .feel__3 .f_ic {
-	background-image: url(/img/icons/feel4.png);
+	background-image: url(/img/icon/icons/restaurant-menu\ 1\ \(1\).svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
