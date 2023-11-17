@@ -1154,6 +1154,34 @@ margin-top: 23px;
 .form_input__big {
   width: 100%;
 }
+.big_in_conc{
+  border-radius: 16px;
+border: 1px solid var(--neutral-03, #DBDFD0);
+background: var(--neutral-01, #FFF);
+display: flex;
+height: 156px;
+padding: 24px;
+align-items: flex-start;
+gap: 10px;
+align-self: stretch;
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+flex: 1 0 0;
+}
+.form_input--in{
+  color: var(--neutral-05, #737865);
+text-align: center;
+
+/* Body/16px/Regular */
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
 
 .map_top {
   padding-bottom: 0;
