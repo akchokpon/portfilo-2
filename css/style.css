@@ -1135,6 +1135,7 @@ margin-top: 23px;
   display: block;
 }
 
+
 .form_input-in {
   border-radius: 72px;
   border: 1px solid #DBDFD0;
@@ -1174,6 +1175,8 @@ flex: 1 0 0;
 .form_input--in{
   color: var(--neutral-05, #737865);
 text-align: center;
+margin-bottom: 50px;
+width: 669px;
 
 /* Body/16px/Regular */
 font-family: DM Sans;
