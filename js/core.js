@@ -1,2 +1,3 @@
-let name = prompt("enter your name")
-alert(" hello" + name)
+document.querySelector('.js_btn').addEventListener('click', function(){
+    
+})
