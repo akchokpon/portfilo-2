@@ -1,3 +1,4 @@
 document.querySelector('.js_btn').addEventListener('click', function(){
-    alert('кнопкв нажата')
+    document.querySelector('.js_btn').classList.add('active')
+    document.querySelector('.js_btn').65ry
 })  
