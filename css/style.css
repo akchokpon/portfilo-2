@@ -1429,3 +1429,6 @@ line-height: 24px; /* 150% */
 .fr_tel {
 	color: #AD343E;
 }
+.customer{
+  display: flex;
+}
